@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm currently learning Python and Arch
+And git x_x
